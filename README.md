@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinadarbouy
-- 👀 I’m interested in Database Administrator
-- 🌱 I’m currently learning Performance And Tuning Database
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
  
 
 <!---
