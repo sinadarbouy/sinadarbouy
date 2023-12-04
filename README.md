@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinadarbouy
 - 👀 I’m interested in kubernetes
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m Cloud Enignner
  
 
 <!---
