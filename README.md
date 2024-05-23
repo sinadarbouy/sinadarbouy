@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinadarbouy
 - 👀 I’m interested in Kubernetes
-- 🌱 I’m Cloud Engineer
+- 🌱 I’m a Cloud Engineer
  
 
 <!---
